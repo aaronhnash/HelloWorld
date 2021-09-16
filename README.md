@@ -15,7 +15,7 @@ This software has been the start of nearly every programming-related undertaking
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/nI5G7rdrnGM)
 
 # Development Environment
 
