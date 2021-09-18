@@ -13,8 +13,6 @@ Hello, world!
 
 This software has been the start of nearly every programming-related undertaking that I've... well, undertaken. My purpose in writing it is to display familiarity and bookmark the start of a series of new projects.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
 [Software Demo Video](https://youtu.be/nI5G7rdrnGM)
 
 # Development Environment
